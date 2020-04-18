@@ -1,0 +1,1 @@
+<generator object SortTest.setUp.<locals>.<genexpr> at 0x04E17648>
